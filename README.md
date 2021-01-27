@@ -1,1 +1,1 @@
-# self-game
+# Own-project
